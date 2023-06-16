@@ -1,0 +1,3 @@
+[submodule "containerize_my_ml"]
+	path = containerize_my_ml
+	url = git@github.com:minorchange/containerize_my_ml.git
