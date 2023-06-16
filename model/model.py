@@ -1,4 +1,4 @@
-from model.create_and_train_clf import create_and_train_iris_clf
+from create_and_train_clf import create_and_train_iris_clf
 
 
 class model_example:
